@@ -66,6 +66,7 @@ The project successfully delivered an AI-powered recruitment assistant, reducing
 
 ## Model Deployment
 <img width="319" height="265" alt="image" src="https://github.com/user-attachments/assets/b82fa07e-24d9-4ef6-8202-35627be605e0" />
+
 The CV Content Classifier application is an implementation of a machine learning model capable of analyzing and categorizing the contents of a CV into relevant categories such as Education, Experience, Skills, and others
 
 
