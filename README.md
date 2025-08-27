@@ -1,7 +1,27 @@
-# HR_Analytic (Ford Sentence Classification Dataset)
+## HR_Analytic (Ford Sentence Classification Dataset)
 
 # Goals
 This project aims to develop a job description analysis model to identify, categorize, and align the required competencies with company needs during the CV screening stage, thereby making the process more efficient and accurate
+
+# Problem Statement
+
+- Traditional CV screening struggles to systematically identify candidate characteristics.
+
+- No automated model existed to classify CV contents into categories such as Responsibility, Skill, Education, and Soft Skills.
+
+- Manual processes were time-consuming and prone to bias
+
+# Methodology
+
+1. Data Preparation – Text cleaning, tokenization, lemmatization, and oversampling (SMOTE).
+
+2. Feature Engineering – Used TF-IDF, Word2Vec, and GloVe vectorization.
+
+3. Model Development & Tuning – Compared SVM, Random Forest, XGBoost, Gradient Boosting, Naïve Bayes, and KNN.
+
+4. Evaluation Metrics – Accuracy, Precision, Recall, F1-score, Confusion Matrix.
+
+5. Deployment – Implemented via Streamlit app for recruiters to analyze CV text.
 
 # Project Workflow
 <img width="395" height="225" alt="image" src="https://github.com/user-attachments/assets/ec71b51f-97f6-4034-ac67-49f27312a926" />
